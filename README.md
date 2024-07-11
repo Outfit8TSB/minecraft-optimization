@@ -20,6 +20,7 @@ Recommended top picks:
 * [Paper](https://github.com/PaperMC/Paper) - The most popular server software that aims to improve performance while fixing gameplay and mechanics inconsistencies.
 * [Pufferfish](https://github.com/pufferfish-gg/Pufferfish) - Paper fork that aims to further improve server performance.
 * [Purpur](https://github.com/PurpurMC/Purpur) - Pufferfish fork focused on features and the freedom of customization.
+* [Plazma](https://github.com/PlazmaMC/PlazmaBukkit) - Best Alternative For Pufferfish with more features
 
 You should stay away from:
 * Any paid server JAR that claims async anything - 99.99% chance of being a scam.
