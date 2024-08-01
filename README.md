@@ -18,7 +18,9 @@ Your choice of server software can make a huge difference in performance and API
 
 Recommended top picks:
 * [Paper](https://github.com/PaperMC/Paper) - The most popular server software that aims to improve performance while fixing gameplay and mechanics inconsistencies.
-* [Pufferfish](https://github.com/pufferfish-gg/Pufferfish) - Paper fork that aims to further improve server performance.
+* [Leaves](https://github.com/LeavesMC/Leaves) - The Paper Fork that fixes the broken Vanilla System.
+* [Pufferfish](https://github.com/pufferfish-gg/Pufferfish) - Paper fork that aims to further improve server performance. (for 1.20.4)
+* [Plazma](https://github.com/PlazmaMC/Plazma) - Pufferfish fork made from Scratch: includes purpur and more Freedom.
 * [Purpur](https://github.com/PurpurMC/Purpur) - Pufferfish fork focused on features and the freedom of customization.
 
 You should stay away from:
@@ -26,6 +28,7 @@ You should stay away from:
 * Bukkit/CraftBukkit/Spigot - Extremely outdated in terms of performance compared to other server software you have access to.
 * Any plugin/software that enables/disables/reloads plugins on runtime. See [this section](#plugins-enablingdisabling-other-plugins) to understand why.
 * Many forks further downstream from Pufferfish or Purpur will encounter instability and other issues. If you're seeking more performance gains, optimize your server or invest in a personal private fork.
+* The Purformance Minecraft server - we don't recommend Purformance, as this server disables many basic functions of the Minecraft Server.
 
 ## Map pregen
 Map pregeneration, thanks to various optimizations to chunk generation added over the years is now only useful on servers with terrible, single threaded, or limited CPUs. Though, pregeneration is commonly used to generate chunks for world-map plugins such as Pl3xMap or Dynmap.
